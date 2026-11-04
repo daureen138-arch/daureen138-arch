@@ -1,4 +1,9 @@
-## Hi there 👋
+## Начинающий Fullstack-разработчик, активно ищу работу
+## Сейчас углубляюсь в React, PHP, PostgreSQL и делаю pet-проекты
+
+Ссылки на 3–5 лучших репозиториев (о них ниже) — это самое важное.
+
+Контакты: email, LinkedIn, Telegram.
 
 <!--
 **daureen138-arch/daureen138-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
