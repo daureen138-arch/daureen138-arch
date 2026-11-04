@@ -6,7 +6,7 @@
 
 ## Мои проекты
 - [Адаптивный лендинг](https://github.com/daureen138-arch/landing-heat) — HTML/CSS/JS, бургер-меню, валидация формы, GitHub Pages.
-- [CRUD-заметки на PHP + SQLite](ссылка) — создание/редактирование/удаление, PDO, валидация.
+- [CRUD-заметки на PHP + SQLite](https://github.com/daureen138-arch/notes-crud-php) — создание/редактирование/удаление, PDO, валидация.
 - [Погода на React](ссылка) — запрос к API, loading/error, компоненты, Vercel.
 
 ## Стек
