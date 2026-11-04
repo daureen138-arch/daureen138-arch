@@ -5,7 +5,7 @@
 Сейчас: HTML/CSS/JS, PHP, SQL, базово React. Углубляюсь в PostgreSQL и Linux.
 
 ## Мои проекты
-- [Адаптивный лендинг]([ссылка](https://github.com/daureen138-arch/landing-heat)) — HTML/CSS/JS, бургер-меню, валидация формы, GitHub Pages.
+- [Адаптивный лендинг]((https://github.com/daureen138-arch/landing-heat)) — HTML/CSS/JS, бургер-меню, валидация формы, GitHub Pages.
 - [CRUD-заметки на PHP + SQLite](ссылка) — создание/редактирование/удаление, PDO, валидация.
 - [Погода на React](ссылка) — запрос к API, loading/error, компоненты, Vercel.
 
